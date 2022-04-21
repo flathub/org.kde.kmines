@@ -43,9 +43,6 @@
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/kmines-$version.tar.xz"
                     }
-                },
-                {   "type": "patch",
-                    "path": "0001-appstream-Add-content-rating.patch"
                 }
             ]
         }
