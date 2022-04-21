@@ -19,7 +19,13 @@
                 {
                     "type": "archive",
                     "url": "https://download.kde.org/stable/release-service/22.04.0/src/libkdegames-22.04.0.tar.xz",
-                    "sha256": "4dd8d80dbfd2806d420bb6efc2df64a175e8273d9ea34b9c61a0a7daae342e76"
+                    "sha256": "4dd8d80dbfd2806d420bb6efc2df64a175e8273d9ea34b9c61a0a7daae342e76",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 8763,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/libkdegames-$version.tar.xz"
+                    }
                 }
             ]
         },
@@ -30,7 +36,13 @@
                 {
                     "type": "archive",
                     "url": "https://download.kde.org/stable/release-service/22.04.0/src/kmines-22.04.0.tar.xz",
-                    "sha256": "e4fe63239c3578f59b929e3ec3e743bf3e9cb5084f106a92cdc0e62f728aeeb7"
+                    "sha256": "e4fe63239c3578f59b929e3ec3e743bf3e9cb5084f106a92cdc0e62f728aeeb7",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 8763,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kmines-$version.tar.xz"
+                    }
                 },
                 {   "type": "patch",
                     "path": "0001-appstream-Add-content-rating.patch"
