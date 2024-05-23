@@ -18,8 +18,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.02.2/src/libkdegames-24.02.2.tar.xz",
-                    "sha256": "3c6bf773670e4509bbc71604bf0a14910d076434326a15756d3c47b1f5ae7e19",
+                    "url": "https://download.kde.org/stable/release-service/24.05.0/src/libkdegames-24.05.0.tar.xz",
+                    "sha256": "8cbb3bbfbcc4e9c5fd15cb61ff542de17c1f5a668407a950d47a311ea0dd7ee4",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -35,8 +35,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.02.2/src/kmines-24.02.2.tar.xz",
-                    "sha256": "8c047a7f4ca4421927ac44785328b8cfb7b2cf6d49d137b9c27aed52417ad10f",
+                    "url": "https://download.kde.org/stable/release-service/24.05.0/src/kmines-24.05.0.tar.xz",
+                    "sha256": "a4386ace8164e81ebb294a5587302d691086c2ab39b2bbac46320222da459441",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
